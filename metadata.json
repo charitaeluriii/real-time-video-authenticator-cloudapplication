@@ -1,0 +1,7 @@
+{
+  "name": "Aura Authenticator",
+  "description": "A modern, AI-powered liveness check application that uses the Gemini API to verify user actions via video, ensuring secure and seamless authentication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
