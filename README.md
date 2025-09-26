@@ -81,7 +81,7 @@ The application follows a client-server architecture where the client is a rich 
 For a production-grade deployment, the following setup is recommended:
 
 1.  **Frontend Hosting**:
-    *   **Service**: [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or AWS S3 + CloudFront.
+    *   **Service**: [Vercel](https://vercel.com/)
     *   **Reasoning**: These services provide a seamless CI/CD pipeline integrated with Git, automatic builds, global content delivery network (CDN) for low latency, and easy management of environment variables.
 
 2.  **API Key Security (Crucial)**:
